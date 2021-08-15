@@ -5,7 +5,7 @@ score = 0
 total_q = 4
 
 if  ans.lower() =='yes':
-    ans = input('1. Which programming i am learing at present? ')
+    ans = input('1. Which programming I am learing at present? ')
     if ans.lower() == 'python':
         score += 1
         print('Correct')
